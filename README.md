@@ -2,12 +2,12 @@
 
 # Membre du groupe: 
 
-LAGNEAU     Theo     (FTheo59) - 
+LAGNEAU     Theo     (FTheo59)
 
-LUSTREMANT  Matthis  (MatthisLu) -
+LUSTREMANT  Matthis  (MatthisLu)
 
-OLIVIER     Mirouan  (Mirouan) -
+OLIVIER     Mirouan  (MirouanPop59)
 
-LESPILETTE  Corentin () - 
+LESPILETTE  Corentin (LosT0611-etu) 
 
-GILLOT      Yann     (Luna)
+GILLOT      Yann     (LunaLaPigeonne)
